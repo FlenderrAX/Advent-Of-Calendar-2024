@@ -1,1 +1,1 @@
-# Advent-Of-Calendar-2024
+# advent-of-calendar-2024
