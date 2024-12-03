@@ -3,8 +3,8 @@
 | Day | Status          |
 |-----|-----------------|
 |  1  | ✅ Completed    |
-|  2  | 🔲 Pending      |
-|  3  | 🔲 Pending      |
+|  2  | ✅ Completed    |
+|  3  | ✅ Completed    |
 |  4  | 🔲 Pending      |
 |  5  | 🔲 Pending      |
 |  6  | 🔲 Pending      |
